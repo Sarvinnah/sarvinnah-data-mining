@@ -1,1 +1,4 @@
-# sarvinnah-data-mining
+1.0)	Introduction:
+Businesses seeking to acquire a competitive edge now depend heavily on the convergence of varied information and the actionable insights that can be extracted from them in the dynamic world of e-commerce. This project uses the combined power of SAS Enterprise Miner and Talend Data Integration to explore the complexities of consumer behavior analysis. While Talend Data Preparation has made thorough data understanding easier, the integration process has simplified data from several sources. The analysis that follows in SAS Enterprise Miner aims to identify trends, identify consumer behavior influencers, and generate strategic suggestions to improve e-commerce decision-making.
+
+2.0)	ObjectiveThis case study's main goal is to use SAS Enterprise Miner to analyse an integrated e-commerce dataset in-depth, with a particular emphasis on churn prediction and customer behaviour analysis. The research attempts to get actionable insights that can guide strategic decision-making for companies involved in the digital marketplace through the use of sophisticated analytics approaches
