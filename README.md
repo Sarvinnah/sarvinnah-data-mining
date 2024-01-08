@@ -19,3 +19,6 @@ Within the framework of this case study, Talend Data Preparation was important i
 
 3.4	SAS Enterprise Miner
 SAS Enterprise Miner was essential to the thorough examination of the e-commerce dataset in this case study. One of the most important steps in data preparation was filling in the missing values, which the platform helped with. To properly handle missing data, the case study made use of sophisticated methodologies and SAS's strong capabilities. In addition, a decision tree model was developed using SAS Enterprise Miner, which offered insights into the variables affecting consumer behavior. The investigation was extended to incorporate ensemble methods employing the Random Forest algorithm, including Bagging and Boosting. By using an ensemble technique, the models' prediction ability was increased, which strengthened our understanding of customer behavior. Ultimately, SAS Enterprise Miner functioned as the analytical engine for analyzing the data and drawing significant business conclusions. The platform's toolkit enabled a thorough examination of the dataset, aiding in the process of making decisions regarding the behavior of online shoppers.
+
+4.0 How to access the files?
+There are total of 
